@@ -1,2 +1,7 @@
 build
 *.elf
+
+# Eclipse related
+.cproject
+.project
+.settings/
